@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "googlemapsframeworks",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ihodorchenko/GoogleMapsFrameworks",
+      "state" : {
+        "branch" : "main",
+        "revision" : "78d16edb087d6691f7b78a6927320efd77fdd52a"
+      }
+    }
+  ],
+  "version" : 2
+}
